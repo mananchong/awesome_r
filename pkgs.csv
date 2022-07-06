@@ -1,7 +1,7 @@
-name, url
-fastverse, https://cloud.r-project.org/package=fastverse
-poorman, https://cloud.r-project.org/package=poorman
-santoku, https://cloud.r-project.org/package=santoku
+name, url,functions
+fastverse, https://cloud.r-project.org/package=fastverse, 
+poorman, https://cloud.r-project.org/package=poorman, 
+santoku, https://cloud.r-project.org/package=santoku, chop
 mirai, https://cloud.r-project.org/package=mirai
 stringfish, https://cloud.r-project.org/package=stringfish
 httpgd, https://cloud.r-project.org/package=httpgd
