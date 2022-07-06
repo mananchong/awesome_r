@@ -5,3 +5,4 @@ santoku,https://cloud.r-project.org/package=santoku,chop
 mirai,https://cloud.r-project.org/package=mirai,*
 stringfish,https://cloud.r-project.org/package=stringfish,*
 httpgd,https://cloud.r-project.org/package=httpgd,*
+rhino,https://cloud.r-project.org/package=rhino,*
