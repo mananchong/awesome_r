@@ -7,3 +7,4 @@ stringfish,https://cloud.r-project.org/package=stringfish,*
 httpgd,https://cloud.r-project.org/package=httpgd,*
 rhino,https://cloud.r-project.org/package=rhino,*
 ambiorix,https://cloud.r-project.org/package=ambiorix,*
+strex,https://cloud.r-project.org/package=strex,*
