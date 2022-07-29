@@ -11,3 +11,5 @@
 |[rhino](https://cloud.r-project.org/package=rhino)|||
 |[ambiorix](https://cloud.r-project.org/package=ambiorix)|||
 |[strex](https://cloud.r-project.org/package=strex)|||
+|[brew](https://cloud.r-project.org/package=brew)|||
+|[a11ytables](https://co-analysis.github.io/a11ytables/)|||
